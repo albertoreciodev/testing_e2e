@@ -1,0 +1,27 @@
+{
+  "name": "testing_e2e",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "e2e init project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoreciodev/testing_2e2.git"
+  },
+  "keywords": [
+    "e2e",
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertoreciodev/testing_2e2/issues"
+  },
+  "homepage": "https://github.com/albertoreciodev/testing_2e2#readme",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  }
+}
